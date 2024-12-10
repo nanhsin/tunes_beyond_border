@@ -1,4 +1,4 @@
-# Tunes Beyond Border: 
+# Tunes Beyond Borders: 
 ## Exploring Music Taste Similarities on Spotify Across Regions
 
 ### About
