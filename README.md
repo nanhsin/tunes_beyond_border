@@ -13,10 +13,11 @@ By examining these questions, we aim to uncover the extent of overlap in music t
 | Poster_TunesBeyondBorders.pdf | The poster for the project |
 | ML_analysis.ipynb | The jupyter notebook for applying ML to analyze the Spotify Charts across regions |
 | ML_analysis.html | The html export of ML_analysis.ipynb |
+| plots (folder) | The output plots from ML_analysis.ipynb |
 | data_collection.py | Fetch global and regional Spotify Daily Charts |
 | data (folder) | The output chart data from data_collection.py |
 | data_preprocessing.ipynb | Consolidate data for analysis |
-| spotify_complete_1124.csv | The data used for ML analysis |
+| spotify_complete_1124.csv | The complete data used for ML analysis |
 | spotify_charts_1124.csv | An aggregated data of Spotify Daily Charts |
 | spotify_features_1124.csv | An aggregated data of Spotify Daily Charts with audio features of each track |
 | region_continent.csv | A table mapping the continent of each region |
